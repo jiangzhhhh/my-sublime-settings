@@ -1,0 +1,12 @@
+[
+	//ctrl+鼠标滚轮快速翻页
+	{ "button": "scroll_down", "modifiers": ["ctrl"], "command": "move", "args": {"by": "pages", "forward": true} },
+	{ "button": "scroll_up", "modifiers": ["ctrl"], "command": "move", "args": {"by": "pages", "forward": false} },
+	//ctrl+左键单击选中单词
+	{
+		"button": "button1", "count": 1,
+		"modifiers": ["ctrl"],
+		"press_command": "drag_select",
+		"press_args": {"by": "words"}
+	}
+]
