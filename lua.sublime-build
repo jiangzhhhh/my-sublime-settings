@@ -1,0 +1,4 @@
+{
+	"cmd": ["/usr/local/bin/lua", "$file"],
+	"selector": "source.lua",
+}
