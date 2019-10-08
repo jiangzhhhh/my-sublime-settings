@@ -5,7 +5,8 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
+		"GBK Support"
 	],
-	"vintage_start_in_command_mode": true,
-    "show_line_endings": true
+	"show_line_endings": true,
+	"vintage_start_in_command_mode": true
 }

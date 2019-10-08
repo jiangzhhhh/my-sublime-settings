@@ -5,7 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"CMake",
+		"ConvertToUTF8",
 		"GBK Support",
-		"Package Control"
+		"LSP",
+		"Package Control",
+		"Pretty JSON"
 	]
 }
