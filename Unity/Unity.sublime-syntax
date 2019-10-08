@@ -35,12 +35,13 @@
 # - Properties are sometimes incorrectly highlighted
 #   for nested block collections (`- !!seq -`).
 ---
-name: YAML
+name: Unity
 file_extensions:
-  - yaml
-  - yml
-  - sublime-syntax
+  - prefab
+  - unity
+  - asset
   - meta
+  - anim
 first_line_match: ^%YAML( ?1.\d+)? # Technically the number is required, but we'll be a bit loose here
 scope: source.yaml
 
