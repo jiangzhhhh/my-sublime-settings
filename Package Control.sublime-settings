@@ -10,6 +10,7 @@
 		"GBK Support",
 		"LSP",
 		"Package Control",
-		"Pretty JSON"
+		"Pretty JSON",
+		"Pretty YAML"
 	]
 }
