@@ -8,9 +8,10 @@
 		"CMake",
 		"ConvertToUTF8",
 		"GBK Support",
-		"LSP",
 		"Package Control",
 		"Pretty JSON",
-		"Pretty YAML"
+		"Pretty YAML",
+		"SublimeLinter",
+		"SublimeLinter-luacheck"
 	]
 }

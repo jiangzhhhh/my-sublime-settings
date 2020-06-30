@@ -8,5 +8,8 @@
 		"GBK Support"
 	],
 	"show_line_endings": true,
-	"vintage_start_in_command_mode": true
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": "false"
 }

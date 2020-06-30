@@ -29,5 +29,8 @@
 	},
 
     //快速切换项目
-    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
+    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+
+    //取消构建
+    {"keys": ["ctrl+shift+b"], "command": "exec", "args": {"kill": true} }
 ]
